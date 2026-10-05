@@ -1,0 +1,15 @@
+feature,importance
+cyberbullying_experience,0.35747339417658486
+social_comparison_score,0.16395675757574593
+sleep_hours,0.1536862553614692
+daily_social_media_hours,0.11112818759960764
+face_to_face_hours,0.07775133252794553
+physical_activity_hours,0.05517749950470546
+study_hours,0.026305089114766218
+screen_time_before_bed_min,0.021755976001760984
+academic_performance,0.01617539072636389
+num_platforms_used,0.006813949433814419
+age,0.006793641526949248
+gender_Female,0.0015564938616127206
+gender_Male,0.0013605676865365711
+gender_Other,6.546490213741023e-05
